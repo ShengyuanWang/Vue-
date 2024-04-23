@@ -1,6 +1,6 @@
-title: Your project name
-lang: en
-description: a catchy description for your project
+title: Vue 文档
+lang: cn
+description: Vue 技术&项目文档
 
 remote_theme: rundocs/jekyll-rtd-theme
 
