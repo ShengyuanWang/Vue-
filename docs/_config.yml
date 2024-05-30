@@ -1,0 +1,14 @@
+title: Vue 文档
+lang: cn
+description: Vue 技术&项目文档
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
