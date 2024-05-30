@@ -1,7 +1,4 @@
----
-sort: 2
----
-
 # Introduction
 
-this is a test page
+this is the introduction page
+
