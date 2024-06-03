@@ -1,4 +1,4 @@
-# Class & Style 绑定
+# 03-Class & Style 绑定
 
 一个常见的需求是操作元素的`class`列表和内联样式。因为这些都是`attribute`，所以我们可以使用`v-bind`来处理。
 
